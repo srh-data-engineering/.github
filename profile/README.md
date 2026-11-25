@@ -1,5 +1,5 @@
 # Data Engineering 1
-**SRH Hochschule Heidelberg · Prof. Dr.-Ing. Binh Vu**
+**SRH Hochschule Heidelberg · Sumit Kulhadia**
 
 Lecture materials, interactive guides, and hands-on labs for the Data Engineering 1 course.
 
@@ -19,7 +19,7 @@ Lecture materials, interactive guides, and hands-on labs for the Data Engineerin
 
 1. Click the repository for your current lecture topic
 2. Follow the `README.md` inside — it has all instructions
-3. Each repo contains: lecture slides (PDF), interactive guide (HTML), and a one-shot setup script
+3. Each repo contains: interactive guide (HTML) for the lecture, and a one-shot setup script
 
 ---
 
