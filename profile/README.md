@@ -1,5 +1,5 @@
 # Data Engineering 1
-**SRH Hochschule Heidelberg · Prof. Dr.-Ing. Binh Vu · Sumit Kulhadia**
+**SRH Hochschule Heidelberg · Sumit Kulhadia**
 
 Lecture materials, interactive guides, and hands-on labs for the Data Engineering 1 course.
 
