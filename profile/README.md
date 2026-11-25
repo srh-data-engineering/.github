@@ -9,6 +9,7 @@ Lecture materials, interactive guides, and hands-on labs for the Data Engineerin
 
 | # | Topic | Contents | Clone |
 |---|-------|----------|-------|
+| 03 | [Hadoop Ecosystem](https://github.com/srh-data-engineering/Hadoop-ecosystem) | Interactive HTML guide · Docker Compose hands-on lab | `git clone https://github.com/srh-data-engineering/Hadoop-ecosystem.git` |
 | 06 | [Data Processing](https://github.com/srh-data-engineering/data-processing) | Interactive HTML guide · one-shot setup script | `git clone https://github.com/srh-data-engineering/data-processing.git` |
 | 07 | [Web Scraping](https://github.com/srh-data-engineering/web-scraping) | Interactive HTML guide · one-shot setup script | `git clone https://github.com/srh-data-engineering/web-scraping.git` |
 | 08 | [Databases](https://github.com/srh-data-engineering/databases) | Interactive HTML guide · Plain Docker commands · Docker Swarm · Python pymongo demos | `git clone https://github.com/srh-data-engineering/databases.git` |
